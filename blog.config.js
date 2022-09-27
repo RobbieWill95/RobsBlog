@@ -17,7 +17,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og.wkmn.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og.selfjourney.xyz', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'Robbie Williams', 'self journey'],
