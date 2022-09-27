@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Robbie WIlliams',
   author: 'RobbieWilliams',
-  email: 'Robbie@selfjourney.xyz',
+  email: 'robbie@selfjourney.xyz',
   link: 'https://journal.selfjourney.xyz',
   description: 'Read some of my acticles!',
   icon: '/favicon.png',
