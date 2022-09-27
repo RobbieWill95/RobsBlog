@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'Clark Weckmann',
-  author: 'Clark Weckmann',
-  email: 'clark@weckmann.me',
-  link: 'https://blog.clark.today',
+  title: 'Robbie WIlliams',
+  author: 'RobbieWilliams',
+  email: 'Robbie@selfjourney.xyz',
+  link: 'https://journal.selfjourney.xyz',
   description: 'Read some of my acticles!',
-  icon: '/me_macbook.png',
+  icon: '/favicon.png',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -18,12 +18,12 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og.wkmn.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/theweckmann',
+  socialLink: '',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'Website', 'Notion', 'Robbie Williams', 'self journey'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
-  notionPageId: "107cd82c9e8c425987d29f350edc2b59", // DO NOT CHANGE THIS！！！
+  notionPageId: "45cfc2e8ffc04d98a5eed6cb5fd51503", // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   analytics: {
     provider: '', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.
