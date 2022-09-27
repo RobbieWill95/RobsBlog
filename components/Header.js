@@ -72,8 +72,8 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title} className="w-full">
               <div className="text-white w-full">
-                <Image width={48} height={48} src={BLOG.icon} className="siteIcon" alt="Memoji of Clark."/>
-                <span className="nav-name">Clark Weckmann</span>
+                <Image width={48} height={48} src={BLOG.icon} className="siteIcon" alt="Memoji of Robbie Williams."/>
+                <span className="nav-name">Robbie Williams</span>
               </div>
             </a>
           </Link>
