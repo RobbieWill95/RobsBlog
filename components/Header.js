@@ -7,7 +7,7 @@ import { useLocale } from '@/lib/locale'
 const NavBar = () => {
   const locale = useLocale()
   const links = [
-    { id: 0, name: 'Clark.Today', to: 'https://www.clark.today', show: true },
+    { id: 0, name: 'Self Journey', to: 'https://www.selfjourney.xyz', show: true },
     { id: 1, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
     { id: 2, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 3, name: locale.NAV.RSS, to: '/feed', show: false },
